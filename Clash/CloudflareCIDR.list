@@ -1,3 +1,23 @@
+# AS203898 (CLOUDFLARENET-UK)
+# Cloudflare Inc
+#
+IP-CIDR,185.122.0.0/24,no-resolve
+# AS132892 (CLOUDFLARE)
+# Cloudflare, Inc.
+#
+IP-CIDR,103.21.246.0/23,no-resolve
+IP-CIDR,141.101.88.0/23,no-resolve
+IP-CIDR,162.158.64.0/21,no-resolve
+IP-CIDR,172.69.24.0/21,no-resolve
+IP-CIDR,172.70.0.0/19,no-resolve
+IP-CIDR,172.70.64.0/20,no-resolve
+IP-CIDR,198.41.144.0/22,no-resolve
+IP-CIDR,198.41.234.0/24,no-resolve
+IP-CIDR,198.41.243.0/24,no-resolve
+IP-CIDR,198.41.245.0/24,no-resolve
+IP-CIDR,198.41.246.0/23,no-resolve
+IP-CIDR,198.41.248.0/22,no-resolve
+IP-CIDR,198.41.254.0/23,no-resolve
 # AS13335 (CLOUDFLARENET)
 # Cloudflare, Inc.
 #
@@ -126,6 +146,7 @@ IP-CIDR,66.235.200.0/24,no-resolve
 IP-CIDR,68.67.65.0/24,no-resolve
 IP-CIDR,103.21.244.0/24,no-resolve
 IP-CIDR,103.22.200.0/22,no-resolve
+IP-CIDR,103.31.4.0/23,no-resolve
 IP-CIDR,103.81.228.0/24,no-resolve
 IP-CIDR,104.16.0.0/12,no-resolve
 IP-CIDR,108.162.192.0/20,no-resolve
@@ -201,7 +222,7 @@ IP-CIDR,162.158.206.0/24,no-resolve
 IP-CIDR,162.158.208.0/22,no-resolve
 IP-CIDR,162.158.212.0/24,no-resolve
 IP-CIDR,162.158.214.0/23,no-resolve
-IP-CIDR,162.158.218.0/23,no-resolve
+IP-CIDR,162.158.216.0/23,no-resolve
 IP-CIDR,162.158.220.0/22,no-resolve
 IP-CIDR,162.158.224.0/22,no-resolve
 IP-CIDR,162.158.229.0/24,no-resolve
@@ -333,6 +354,7 @@ IP-CIDR,172.69.150.0/23,no-resolve
 IP-CIDR,172.69.152.0/24,no-resolve
 IP-CIDR,172.69.154.0/23,no-resolve
 IP-CIDR,172.69.156.0/23,no-resolve
+IP-CIDR,172.69.159.0/24,no-resolve
 IP-CIDR,172.69.160.0/20,no-resolve
 IP-CIDR,172.69.177.0/24,no-resolve
 IP-CIDR,172.69.178.0/23,no-resolve
@@ -381,7 +403,7 @@ IP-CIDR,172.70.128.0/22,no-resolve
 IP-CIDR,172.70.133.0/24,no-resolve
 IP-CIDR,172.70.134.0/23,no-resolve
 IP-CIDR,172.70.136.0/24,no-resolve
-IP-CIDR,172.70.139.0/24,no-resolve
+IP-CIDR,172.70.138.0/23,no-resolve
 IP-CIDR,172.70.140.0/22,no-resolve
 IP-CIDR,172.70.144.0/22,no-resolve
 IP-CIDR,172.70.148.0/23,no-resolve
@@ -501,6 +523,10 @@ IP-CIDR,198.41.242.0/24,no-resolve
 IP-CIDR,198.217.251.0/24,no-resolve
 IP-CIDR,199.27.128.0/21,no-resolve
 IP-CIDR,204.195.192.0/18,no-resolve
+# AS149648 (RESERVED)
+# APNIC ASN block
+#
+IP-CIDR,103.184.44.0/23,no-resolve
 # AS209242 (CLOUDFLARESPECTRUM)
 # Cloudflare London, LLC
 #
@@ -745,7 +771,6 @@ IP-CIDR,194.39.112.0/21,no-resolve
 IP-CIDR,194.40.240.0/23,no-resolve
 IP-CIDR,194.53.53.0/24,no-resolve
 IP-CIDR,194.59.5.0/24,no-resolve
-IP-CIDR,194.87.58.0/23,no-resolve
 IP-CIDR,194.113.223.0/24,no-resolve
 IP-CIDR,194.152.44.0/24,no-resolve
 IP-CIDR,194.169.194.0/24,no-resolve
@@ -810,33 +835,6 @@ IP-CIDR,216.198.53.0/24,no-resolve
 IP-CIDR,216.198.54.0/24,no-resolve
 IP-CIDR,216.205.52.0/24,no-resolve
 IP-CIDR,223.27.176.0/23,no-resolve
-# AS394536 (CLOUDFLARENET-SFO)
-# Cloudflare, Inc.
-#
-# AS149648 (RESERVED)
-# APNIC ASN block
-#
-IP-CIDR,103.184.44.0/23,no-resolve
-# AS132892 (CLOUDFLARE)
-# Cloudflare, Inc.
-#
-IP-CIDR,103.21.246.0/23,no-resolve
-IP-CIDR,141.101.88.0/23,no-resolve
-IP-CIDR,162.158.64.0/21,no-resolve
-IP-CIDR,172.69.24.0/21,no-resolve
-IP-CIDR,172.70.0.0/19,no-resolve
-IP-CIDR,172.70.64.0/20,no-resolve
-IP-CIDR,198.41.144.0/22,no-resolve
-IP-CIDR,198.41.234.0/24,no-resolve
-IP-CIDR,198.41.243.0/24,no-resolve
-IP-CIDR,198.41.245.0/24,no-resolve
-IP-CIDR,198.41.246.0/23,no-resolve
-IP-CIDR,198.41.248.0/22,no-resolve
-IP-CIDR,198.41.254.0/23,no-resolve
-# AS203898 (CLOUDFLARENET-UK)
-# Cloudflare Inc
-#
-IP-CIDR,185.122.0.0/24,no-resolve
 # AS202623 (CLOUDFLARENET-LUX)
 # Cloudflare Inc
 #
@@ -845,6 +843,9 @@ IP-CIDR,141.101.91.0/24,no-resolve
 IP-CIDR,172.71.32.0/19,no-resolve
 IP-CIDR,172.71.64.0/20,no-resolve
 IP-CIDR,198.41.148.0/22,no-resolve
+# AS394536 (CLOUDFLARENET-SFO)
+# Cloudflare, Inc.
+#
 # AS139242 (CSL-AP)
 # Cloudflare Sydney, LLC
 #
